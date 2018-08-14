@@ -16,3 +16,8 @@ To get started, check out <http://vccw.cc/>
 
 * The `site.yml` has to be in the same directory with Vagrantfile.
 * You can put difference to the `site.yml`.
+
+### Linkを貼る
+theme開発用のディレクトリAのthemeディレクトリAaを絶対パスで指定する。
+
+`ln -s ~/theme-dev-dir/public ~/wordpress-local/wordpress/wp-content/theme`
