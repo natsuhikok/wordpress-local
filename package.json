@@ -3,7 +3,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "vagrant up",
-    "reload": "vagrant reload --provision" 
+    "reload": "vagrant reload --provision" ,
+    "exit": "vagrant halt"
   },
   "homepage": "https://github.com/vccw-team/vccw#readme"
 }
