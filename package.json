@@ -1,0 +1,9 @@
+{
+  "name": "wordpress-local",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vagrant up",
+    "reload": "vagrant reload --provision" 
+  },
+  "homepage": "https://github.com/vccw-team/vccw#readme"
+}
