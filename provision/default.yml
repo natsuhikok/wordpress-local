@@ -22,8 +22,8 @@ ip: 192.168.33.10
 # WordPress Settings
 #
 version: latest
-lang: en_US
-title: Welcome to the VCCW
+lang: ja
+title: タイトル
 multisite: false
 rewrite_structure: /archives/%post_id%
 
